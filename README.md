@@ -10,7 +10,7 @@ Generate secure passwords with configurable character sets (uppercase, lowercase
 
 ## Preview Demo
 
-<video src="assets/psswd-gentr.mp4">Demo</video>
+<video src="assets/assets/psswd-gentr.mp4">Demo</video>
 
 ## Features
 
