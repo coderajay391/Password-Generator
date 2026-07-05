@@ -6,7 +6,7 @@ Generate secure passwords with configurable character sets (uppercase, lowercase
 
 ## Preview Image
 
-<image src="./assets/psswrd-gen.png"
+<image src="assets/psswrd-gen.png">App Preview</image>
 
 ## Features
 
