@@ -8,6 +8,10 @@ Generate secure passwords with configurable character sets (uppercase, lowercase
 
 <image src="assets/psswrd-gen.png">App Preview</image>
 
+## Preview Demo
+
+<video src="assets/psswd-gentr.zip/psswd-gentr.mp4"
+
 ## Features
 
 - Generate passwords based on options such as:
